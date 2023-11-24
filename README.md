@@ -21,5 +21,10 @@ Remarks-Other information,if any.
 ## Insights :
 1)Total Number of fundings done each year
 2)Top indian cities which have most number of startups
-3)
+3)To find out if cities play any major role in getting required funding
+4)Four types of investments are there, which type of investments gets the maximum funding
+5)Which type of funding got funding more easily
+6)Top 5 startups that got the maximum funding
+7)Startups which got the funding maximum number of times
+8)Investors who have invested maximum number of times
 
